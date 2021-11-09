@@ -6,7 +6,7 @@
 
 В результате тестирования выявлен дефект:
 
-https://wroow.atlassian.net/browse/WROOM-7?atlOrigin=eyJpIjoiOWJlZmZiOGY5MWRjNDE1YjgzOWM1YzlhM2I2ODI0OWUiLCJwIjoiaiJ9
+[Issues](https://github.com/MikhailBelousov1996/J-Block1/issues/1)
 
 Описание процесса тестирования
 
