@@ -17,7 +17,7 @@ https://wroow.atlassian.net/browse/WROOM-7?atlOrigin=eyJpIjoiOWJlZmZiOGY5MWRjNDE
 
 В качестве тестовых данных использовались данные:
 
-https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md
+[Ссылка](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
 
 * при сложении имеющихся (2_000_000_000) и поступивших (500_0000_000) средств выводится сумма сложения (2_500_000_000)  
     
@@ -25,5 +25,7 @@ https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md
 Тестирование производилось в следующем окружении:
 
 * Windows 10-64
-* Java 11
+* Openjdk version "11.0.12" 2021-07-20
+
+
 
