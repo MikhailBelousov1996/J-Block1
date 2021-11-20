@@ -12,7 +12,7 @@
 
 В качестве тестовых данных использовались данные:
 
-[Ссылка](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
+[Текст задания](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
 
 * при сложении имеющихся (2_000_000_000) и поступивших (500_0000_000) средств выводится сумма сложения (2_500_000_000)  
     
