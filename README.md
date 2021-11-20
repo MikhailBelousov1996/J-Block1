@@ -6,7 +6,7 @@
 
 В результате тестирования выявлен дефект:
 
-[Issues](https://github.com/MikhailBelousov1996/J-Block1/issues/1)
+[При пересчете баланса после пополнения выводится результат не сооответствующйи действительности](https://github.com/MikhailBelousov1996/J-Block1/issues/1)
 
 Описание процесса тестирования:
 
